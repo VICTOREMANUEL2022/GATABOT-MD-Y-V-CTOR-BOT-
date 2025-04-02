@@ -11,14 +11,14 @@ import moment from 'moment-timezone'
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
-global.botNumberCode = '' //Ejemplo: +573218138672
+global.botNumberCode = '' //Ejemplo: +59894243071
 global.confirmCode = ''
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-  [ '50488198573', 'Deylin 👑', true ],
-  [ '59169739411', '~Iván⁩ ', true ],
+  [ '59894243071', '[GATABOT-MD Y VÍCTOR BOT🇺🇾] 👑', true ],
+  [ '59894243071', '~[GATABOT-MD Y VÍCTOR BOT🇺🇾] ', true ],
   [ '573007796996', '~𝕄𝕠𝕣𝕒𝕝𝕖𝕤⁩  ', true ],
   [ '50231458537', ' Brayan moscoso', true ],
   [ '584245610338', 'jose', true ],
@@ -43,20 +43,20 @@ global.baileys = 'V 6.7.13'
 global.languaje = 'Español'
 global.vs = '2.2.0'
 global.vsJB = '5.0'
-global.nameqr = '𝕂𝕚𝕣𝕚𝕥𝕠 𝕓𝕠𝕥 𝕄𝔻'
-global.namebot = '𝐤𝐢𝐫𝐢𝐭𝐨 𝐌𝐃'
+global.nameqr = '[GATABOT-MD Y VÍCTOR BOT🇺🇾] 𝕓𝕠𝕥 𝕄𝔻'
+global.namebot = 'Victor-bot-𝐌𝐃'
 global.sessions = 'Sessions'
 global.jadi = 'JadiBots' 
 global.kiritoJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '𝐤𝐢𝐫𝐢𝐭𝐨-𝐁𝐨𝐭 𝐌𝐃'
-global.botname = '𝑲𝒊𝒓𝒊𝒕𝒐 - 𝑩𝒐𝒕'
+global.packname = 'victor-𝐁𝐨𝐭 𝐌𝐃'
+global.botname = 'Víctor-bot - 𝑩𝒐𝒕'
 global.wm = '𝐤𝐢𝐫𝐢𝐭𝐨 𝐌𝐃'
 global.author = 'Made By 𝐃𝐞𝐲𝐥𝐢𝐧'
-global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ 𝑫𝒆𝒚𝒍𝒊𝒏'
-global.textbot = '𝐤𝐢𝐫𝐢𝐭𝐨 - 𝐁𝐨𝐭 • Powered By 𝑫𝒆𝒚𝒍𝒊𝒏'
+global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ victor-bot'
+global.textbot = 'victor - 𝐁𝐨𝐭 • Powered By 𝑫𝒆𝒚𝒍𝒊𝒏'
 global.etiqueta = '𝑫𝒆𝒚𝒍𝒊𝒏'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -85,7 +85,7 @@ global.cn ='https://whatsapp.com/channel/0029VawF8fBBvvsktcInIz3m';
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.catalogo = fs.readFileSync('./src/catalogo.jpg');
-global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: packname, orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
+global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "59894243071-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: packname, orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
 global.ch = {
 ch1: '120363365444927738@newsletter',
 }
