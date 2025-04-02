@@ -12,7 +12,7 @@ avaricia"/></a>
 ---
 
 ### 🏆 **Poder y Precisión en un Solo Bot**  
-📌 **Creado por:** `Deylin`  
+📌 **Creado por:** `[GATABOT-MD Y VÍCTOR BOT🇺🇾]`  
 ⚔ **Optimizado para WhatsApp**  
 🔮 **Diseño inspirado en Sword Art Online**  
 🚀 **¡Rápido, potente y seguro!**  
@@ -116,8 +116,9 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 ## 🌐 ***Forma parte de la Comunidad*** 
 
-💬 **Canal Oficial:** [`Click👑Aquí`](https://whatsapp.com/channel/0029VawF8fBBvvsktcInIz3m)  
+💬 **Canal Oficial:** [`Click👑Aquí`](https://whatsapp.com/channel/0029VbAEza0LSmbjWpKh1L2f)  
 
+*https://whatsapp.com/channel/0029VaXrCkKISTkNsoPZNO0O*
 ---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=400&color=00CCFF&lines=✨+Espero+que+disfrutes+este+repositorio;💙+Creado+con+dedicación;⚔️+By+Mr.|Deyin+🌠🚀)](https://git.io/typing-svg)  
