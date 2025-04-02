@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=👑+¡HOLA,+SOY+KIRITO-BOT!+🔥" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=👑+¡HOLA,+SOY+[GATABOT-MD Y VÍCTOR BOT🇺🇾]-BOT!+🔥" alt="Typing SVG">
 </h1>
 
 ---
@@ -18,7 +18,7 @@ avaricia"/></a>
 🚀 **¡Rápido, potente y seguro!**  
 
 ---
-## 🚀 **Explora Kirito-Bot**  
+## 🚀 **Explora  [GATABOT-MD Y VÍCTOR BOT🇺🇾]-Bot**  
 <p align="center">
   <img src="https://files.catbox.moe/91wohc.jpg" alt="Kirito-Bot"
 width="130" height="130" alt="
@@ -140,7 +140,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 ### **`👑 Propietario`**
 
-<h1>Deylin 📚</h1>
+<h1>[GATABOT-MD Y VÍCTOR BOT🇺🇾] 📚</h1>
 <a href="https://github.com/deylinqff"><img src="https://github.com/deylinqff.png" width="130" height="130" alt="
 avaricia"/></a>
 
@@ -157,7 +157,7 @@ href="https://github.com/The-King-Destroy"><img src="https://github.com/The-King
   <a href="https://github.com/deylinqff">
     <img src="https://img.shields.io/badge/GitHub-Deylinqff-181717?style=for-the-badge&logo=github">
   </a>
-  <a href="https://wa.me/50488198573">
+  <a href="https://wa.me/59894243071">
     <img src="https://img.shields.io/badge/WhatsApp-Contactar-25D366?style=for-the-badge&logo=whatsapp">
   </a>
   <a href="mailto:deylibaquedano801@gmail.com">
@@ -173,4 +173,4 @@ href="https://github.com/The-King-Destroy"><img src="https://github.com/The-King
   </a>
 </p>
 
-## ⚔️ [© Powered By Deyin 👑](https://Wa.me/50488198573)
+## ⚔️ [© Powered By[GATABOT-MD Y VÍCTOR BOT🇺🇾] 👑](https://Wa.me/59894243071)
