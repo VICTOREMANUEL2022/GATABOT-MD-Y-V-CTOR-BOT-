@@ -1,3 +1,5 @@
+![Uploading 1743658689357464613116638679609.jpg…]()
+
 <p align="center">
   <img src="IMG-20250403-font=Fira+Code&size=40&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=👑+¡HOLA,+SOY+[GATABOT-MD Y VÍCTOR BOT🇺🇾]-BOT!+🔥" alt="Typing SVG">
 </h1>
