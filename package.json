@@ -1,5 +1,5 @@
 {
-"name": "kirito-Bot-MD",
+"name": "⚔️ © Powered By[GATABOT-MD Y VÍCTOR BOT🇺🇾] 👑",
 "version": "2.2.0",
 "description": "Super WhatsApp Bot Multi Device",
 "main": "index.js",
@@ -18,16 +18,16 @@
 "eslint": "eslint .",
 "eslintfix": "eslint --fix ."
 },
-"homepage": "https://github.com/deylinqff/Kirito-Bot-MD",
+"homepage": "https://github.com/VICTOREMANUEL2022/GATABOT-MD-Y-V-CTOR-BOT",
 "author": {
 "name": "Deylin"
 },
 "repository": {
 "type": "git",
-"url": "git+https://github.com/deylinqff/Kirito-Bot-MD.git"
+"url": "https://github.com/VICTOREMANUEL2022/GATABOT-MD-Y-V-CTOR-BOT-.git"
 },
 "bugs": {
-"url": "https://github.com/deylinqff/Kirito-Bot-MD/issues"
+"url": "https://github.com/VICTOREMANUEL2022/GATABOT-MD-Y-V-CTOR-BOT/issues"
 },
 "license": "GPL-3.0-or-later",
 "dependencies": {
