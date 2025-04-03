@@ -47,16 +47,16 @@ global.nameqr = '[GATABOT-MD Y VÍCTOR BOT🇺🇾] 𝕓𝕠𝕥 𝕄𝔻'
 global.namebot = 'Victor-bot-𝐌𝐃'
 global.sessions = 'Sessions'
 global.jadi = 'JadiBots' 
-global.kiritoJadibts = true
+global. ⚔️VÍCTORBOT🇺🇾Jadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.packname = 'victor-𝐁𝐨𝐭 𝐌𝐃'
 global.botname = 'Víctor-bot - 𝑩𝒐𝒕'
 global.wm = '𝐤𝐢𝐫𝐢𝐭𝐨 𝐌𝐃'
-global.author = 'Made By 𝐃𝐞𝐲𝐥𝐢𝐧'
+global.author = 'Made ⚔️ © Powered By[GATABOT-MD Y VÍCTOR BOT🇺🇾] 👑'
 global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ victor-bot'
-global.textbot = 'victor - 𝐁𝐨𝐭 • Powered By 𝑫𝒆𝒚𝒍𝒊𝒏'
+global.textbot = 'victor - 𝐁𝐨𝐭 • ⚔️ © Powered By[GATABOT-MD Y VÍCTOR BOT🇺🇾] 👑'
 global.etiqueta = '𝑫𝒆𝒚𝒍𝒊𝒏'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -65,8 +65,7 @@ global.moneda = 'llamas'
 global.welcom1 = '❍ Edita Con El Comando setwelcome'
 global.welcom2 = '❍ Edita Con El Comando setbye'
 global.banner = 'https://tinyurl.com/25md9gsv'
-global.avatar  = 'https://qu.ax/MuAQA.jpg'
-
+global.avatar  = 'IMG-20250403-WA0001.rar
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.catalogo = fs.readFileSync('./src/catalogo.jpg');
@@ -78,7 +77,7 @@ global.gp1 = 'https://chat.whatsapp.com/F8KwM3rVqkS9HhR5msoRqQ'
 global.comunidad1 = 'https://chat.whatsapp.com/F8KwM3rVqkS9HhR5msoRqQ'
 global.channel = 'https://whatsapp.com/channel/0029VawF8fBBvvsktcInIz3m'
 global.channel2 = 'https://whatsapp.com/channel/0029VayQwPsFnSzESZJ9Us3z'
-global.md = 'https://github.com/deylinqff/Kirito-Bot-MD'
+global.md = 'https://github.com/VICTOREMANUEL2022/GATABOT-MD-Y-V-CTOR-BOT'
 global.correo = 'deylibaquedano801@gmail.com'
 global.cn ='https://whatsapp.com/channel/0029VawF8fBBvvsktcInIz3m';
 
