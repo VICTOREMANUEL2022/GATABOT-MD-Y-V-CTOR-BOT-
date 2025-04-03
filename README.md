@@ -1,7 +1,6 @@
-![Uploading 1743658689357464613116638679609.jpg…]()
+(https://github.com/user-attachments/assets/09a61938-a0a4-4a5d-958c-baa90f8ad3e1)
 
-<p align="center">
-  <img src="IMG-20250403-font=Fira+Code&size=40&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=👑+¡HOLA,+SOY+[GATABOT-MD Y VÍCTOR BOT🇺🇾]-BOT!+🔥" alt="Typing SVG">
+font=Fira+Code&size=40&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=👑+¡HOLA,+SOY+[GATABOT-MD Y VÍCTOR BOT🇺🇾]-BOT!+🔥" alt="Typing SVG">
 </h1>
 
 ---
