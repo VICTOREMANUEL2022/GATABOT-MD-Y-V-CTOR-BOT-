@@ -1,4 +1,4 @@
-https://github.com/user-attachments/assets/09a61938-a0a4-4a5d-958c-baa90f8ad3e1)
+https://github.com/user-attachments/assets/09a61938-a0a4-4a5d-958c-baa90f8ad3e1
 
 [HOLA] [SOY [GATABOT-MD Y VÍCTOR BOT🇺🇾BOT]
 </h1>
