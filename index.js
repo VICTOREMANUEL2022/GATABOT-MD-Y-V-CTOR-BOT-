@@ -43,7 +43,7 @@ let { say } = cfonts
 
 console.log(chalk.bold.redBright(`\n✰ Iniciando kirito-Bot MD ✰\n`))
 
-say('kirito-Bot-MD', {
+say('⚔️ © Powered By[GATABOT-MD Y VÍCTOR BOT🇺🇾] 👑', {
 font: 'block',
 align: 'center',
 colors: ['magentaBright']
@@ -139,7 +139,7 @@ const connectionOptions = {
 logger: pino({ level: 'silent' }),
 printQRInTerminal: opcion == '1' ? true : methodCodeQR ? true : false,
 mobile: MethodMobile, 
-browser: opcion == '1' ? [`${nameqr}`, 'Edge', '20.0.04'] : methodCodeQR ? [`${nameqr}`, 'Edge', '20.0.04'] : ['Ubuntu', 'Edge', '110.0.1587.56'],
+browser: opcion == '1' ? [`${nameqr}`, '⚔️ © Powered By[GATABOT-MD Y VÍCTOR BOT🇺🇾] 👑', '20.0.04'] : methodCodeQR ? [`${nameqr}`, '⚔️ © Powered By[GATABOT-MD Y VÍCTOR BOT🇺🇾] 👑', '20.0.04'] : ['Ubuntu', '⚔️ © Powered By[GATABOT-MD Y VÍCTOR BOT🇺🇾] 👑', '110.0.1587.56'],
 auth: {
 creds: state.creds,
 keys: makeCacheableSignalKeyStore(state.keys, Pino({ level: "fatal" }).child({ level: "fatal" })),
@@ -212,7 +212,7 @@ if (opcion == '1' || methodCodeQR) {
 console.log(chalk.bold.yellow(`\n❐ ESCANEA EL CÓDIGO QR EXPIRA EN 45 SEGUNDOS`))}
 }
 if (connection == 'open') {
-console.log(chalk.bold.green('\n👑 Kirito-Bot-MD Conectada con éxito 👑'))
+console.log(chalk.bold.green('\n👑 ⚔️ © Powered By[GATABOT-MD Y VÍCTOR BOT🇺🇾] 👑 Conectada con éxito 👑'))
 }
 let reason = new Boom(lastDisconnect?.error)?.output?.statusCode
 if (connection === 'close') {
@@ -289,7 +289,7 @@ return true
 
 global.rutaJadiBot = join(__dirname, './JadiBots')
 
-if (global.kiritoJadibts) {
+if (global.⚔️ © Powered By[GATABOT-MD Y VÍCTOR BOT🇺🇾] 👑Jadibts) {
 if (!existsSync(global.rutaJadiBot)) {
 mkdirSync(global.rutaJadiBot, { recursive: true }) 
 console.log(chalk.bold.cyan(`La carpeta: ${jadi} se creó correctamente.`))
@@ -304,7 +304,7 @@ for (const gjbts of readRutaJadiBot) {
 const botPath = join(rutaJadiBot, gjbts)
 const readBotPath = readdirSync(botPath)
 if (readBotPath.includes(creds)) {
-kiritoJadiBot({pathYukiJadiBot: botPath, m: null, conn, args: '', usedPrefix: '/', command: 'serbot'})
+kiritoJadiBot({path⚔️ © Powered By[GATABOT-MD Y VÍCTOR BOT🇺🇾] 👑JadiBot: botPath, m: null, conn, args: '', usedPrefix: '/', command: 'serbot'})
 }
 }
 }
